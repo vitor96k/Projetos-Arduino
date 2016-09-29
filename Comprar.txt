@@ -1,0 +1,1 @@
+plug tomada macho 10 amperes
